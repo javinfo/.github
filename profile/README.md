@@ -16,7 +16,7 @@ curl -X POST 'https://javinfo-search.p.rapidapi.com/search' \
   -d '{ "q": "SSIS-001" }'
 ```
 
-**[→ Get a key on RapidAPI](https://rapidapi.com/)**
+**[→ Get a key on RapidAPI](https://rapidapi.com/iamrony777/api/javinfo)**
 
 ## Providers
 

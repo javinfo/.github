@@ -2,7 +2,7 @@
 
 **Metadata and magnet search for JAV releases.** Send a DVD ID, get back one clean JSON object — title, cast, maker, series, cover art, runtime, and (on paid plans) download / magnet links.
 
-**[javinfo.eu.org](https://javinfo.eu.org)** · search the web app, or use the API below.
+**[javinfo.dev](https://javinfo.dev)** · search the web app, or use the API below.
 
 ## API
 
